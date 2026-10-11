@@ -8,7 +8,6 @@ plugins {
 }
 
 group = "io.github.osobolev.sqlg3"
-version = "3.2"
 
 mavenPublishing {
     publishToMavenCentral()
